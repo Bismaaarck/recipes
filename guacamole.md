@@ -5,6 +5,7 @@
  * salt
  * jalapenos
  * feta
+ * sugar
 ## Serving Size
 ## Nutritional Value
 ## Instructions
